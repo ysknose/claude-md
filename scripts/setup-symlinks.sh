@@ -15,6 +15,7 @@ LINKS=(
   "CLAUDE.md"
   "commands"
   "skills"
+  "settings.json"
 )
 
 for item in "${LINKS[@]}"; do
