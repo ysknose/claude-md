@@ -1,0 +1,3 @@
+# Symlink artifacts from setup script
+.claude/commands/commands
+.claude/skills/skills
