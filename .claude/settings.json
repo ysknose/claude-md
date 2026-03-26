@@ -1,1 +1,4 @@
-{}
+{
+  "language": "japanese",
+  "skipDangerousModePermissionPrompt": true
+}
